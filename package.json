@@ -1,0 +1,14 @@
+{
+  "name": "wspuc",
+  "version": "1.0.0",
+  "description": "teste na puc",
+  "main": "index.js",
+  "scripts": {
+    "test": "no"
+  },
+  "author": "eu",
+  "license": "ISC",
+  "dependencies": {
+    "nodejs-websocket": "^1.4.0"
+  }
+}
